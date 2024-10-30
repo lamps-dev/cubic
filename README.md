@@ -5,7 +5,9 @@
   Cubic, a python-c# project representing over 100 tools!
 </h1>
 </p>
-![GitHub branch status](https://img.shields.io/github/checks-status/lamps-dev/cubic/main)
-![GitHub contributors](https://img.shields.io/github/contributors/lamps-dev/cubic)
-![GitHub last commit](https://img.shields.io/github/last-commit/lamps-dev/cubic)
-![GitHub Created At](https://img.shields.io/github/created-at/lamps-dev/cubic)
+<div align="center">
+  <img src="https://img.shields.io/github/checks-status/lamps-dev/cubic/main" alt="GitHub branch status">
+  <img src="https://img.shields.io/github/contributors/lamps-dev/cubic" alt="GitHub contributors">
+  <img src="https://img.shields.io/github/last-commit/lamps-dev/cubic" alt="GitHub last commit">
+  <img src="https://img.shields.io/github/created-at/lamps-dev/cubic" alt="GitHub Created At">
+</div>
