@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/lamps-dev/cubic/refs/heads/main/cubic.png" alt="Cubic" width=70>
-<h3 align="center">Cubic</h3>
+<img src="https://raw.githubusercontent.com/lamps-dev/cubic/refs/heads/main/cubic.png" alt="Cubic" width=180>
+<h1 align="center">Cubic</h1>
 <h1 align="center">
   Cubic, a python-c# project representing over 100 tools!
 </h1>
