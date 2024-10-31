@@ -3,15 +3,15 @@
 <h1 align="center">Cubic</h1>
 <h1 align="center">
   Cubic, a python-c# project representing over 100 tools!
-</h1>
 </p>
+<h1>
 <div align="center">
   <img src="https://img.shields.io/github/checks-status/lamps-dev/cubic/main" alt="GitHub branch status">
   <img src="https://img.shields.io/github/contributors/lamps-dev/cubic" alt="GitHub contributors">
   <img src="https://img.shields.io/github/last-commit/lamps-dev/cubic" alt="GitHub last commit">
   <img src="https://img.shields.io/github/created-at/lamps-dev/cubic" alt="GitHub Created At">
 </div>
-<h1></h1>
+</h1>
 <p align="center">
   This is a Python-C# project to run and test over 100 tools! Plus, its even customizable!
 </p>
