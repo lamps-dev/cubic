@@ -1,0 +1,6 @@
+﻿services:
+  cubic.cli:
+    image: cubic.cli
+    build:
+      context: .
+      dockerfile: Cubic.CLI/Dockerfile

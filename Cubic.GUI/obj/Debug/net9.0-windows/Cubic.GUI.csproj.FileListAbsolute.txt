@@ -1,0 +1,14 @@
+C:\Users\ilove\RiderProjects\Cubic\Cubic.GUI\bin\Debug\net9.0-windows\Cubic.GUI.exe
+C:\Users\ilove\RiderProjects\Cubic\Cubic.GUI\bin\Debug\net9.0-windows\Cubic.GUI.deps.json
+C:\Users\ilove\RiderProjects\Cubic\Cubic.GUI\bin\Debug\net9.0-windows\Cubic.GUI.runtimeconfig.json
+C:\Users\ilove\RiderProjects\Cubic\Cubic.GUI\bin\Debug\net9.0-windows\Cubic.GUI.dll
+C:\Users\ilove\RiderProjects\Cubic\Cubic.GUI\bin\Debug\net9.0-windows\Cubic.GUI.pdb
+C:\Users\ilove\RiderProjects\Cubic\Cubic.GUI\obj\Debug\net9.0-windows\Cubic.GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilove\RiderProjects\Cubic\Cubic.GUI\obj\Debug\net9.0-windows\Cubic.GUI.AssemblyInfoInputs.cache
+C:\Users\ilove\RiderProjects\Cubic\Cubic.GUI\obj\Debug\net9.0-windows\Cubic.GUI.AssemblyInfo.cs
+C:\Users\ilove\RiderProjects\Cubic\Cubic.GUI\obj\Debug\net9.0-windows\Cubic.GUI.csproj.CoreCompileInputs.cache
+C:\Users\ilove\RiderProjects\Cubic\Cubic.GUI\obj\Debug\net9.0-windows\Cubic.GUI.dll
+C:\Users\ilove\RiderProjects\Cubic\Cubic.GUI\obj\Debug\net9.0-windows\refint\Cubic.GUI.dll
+C:\Users\ilove\RiderProjects\Cubic\Cubic.GUI\obj\Debug\net9.0-windows\Cubic.GUI.pdb
+C:\Users\ilove\RiderProjects\Cubic\Cubic.GUI\obj\Debug\net9.0-windows\Cubic.GUI.genruntimeconfig.cache
+C:\Users\ilove\RiderProjects\Cubic\Cubic.GUI\obj\Debug\net9.0-windows\ref\Cubic.GUI.dll
