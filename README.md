@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/github/created-at/lamps-dev/cubic" alt="GitHub Created At">
 </div>
 </h1>
+
+# Hello there! The cubic project has been discontinued and has been replaced by [LampTools](https://github.com/lamp-studios/lamptools), please check that out instead, thank you :3 - Lamp
+
 <p align="center">
   CHECK BRANCH "master" FOR CUBIC'S SOURCE CODE.
 </p> 
